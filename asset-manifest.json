@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-cat-jjal-maker/static/css/main.655978cd.css",
+    "main.js": "/React-cat-jjal-maker/static/js/main.3ca44b99.js",
+    "static/js/787.44ce1ab4.chunk.js": "/React-cat-jjal-maker/static/js/787.44ce1ab4.chunk.js",
+    "index.html": "/React-cat-jjal-maker/index.html",
+    "main.655978cd.css.map": "/React-cat-jjal-maker/static/css/main.655978cd.css.map",
+    "main.3ca44b99.js.map": "/React-cat-jjal-maker/static/js/main.3ca44b99.js.map",
+    "787.44ce1ab4.chunk.js.map": "/React-cat-jjal-maker/static/js/787.44ce1ab4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.655978cd.css",
+    "static/js/main.3ca44b99.js"
+  ]
+}
